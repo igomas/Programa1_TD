@@ -15,5 +15,10 @@ knitr::opts_chunk$set(echo = TRUE)
 r<- 2
 A<- pi*r^2
 ```
+## Cálculo de la longitud diferencial
+```{r}
+r<-2
+l<- 2*pi*r
 
+```
 
